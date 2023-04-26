@@ -143,15 +143,30 @@
     }
 
     .footer-input {
-        width: 100%;        
+        width: 100%;
     }
+
     .btn {
         width: 100%;
     }
+
     .footer-links-wrapper {
         flex-direction: column;
     }
+
     .social-media-wrap {
         flex-direction: column;
+    }
+}
+
+@media screen and (max-width: 560px) {
+    .footer-links-items {
+        margin: 12px;
+    }
+}
+
+@media screen and (max-width: 390px) {
+    .footer-links-items {
+        margin: 6px;
     }
 }
