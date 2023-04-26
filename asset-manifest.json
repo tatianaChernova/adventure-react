@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/adventure-react/static/css/main.37a8633e.css",
-    "main.js": "/adventure-react/static/js/main.28af0b3e.js",
+    "main.css": "/adventure-react/static/css/main.a8f367eb.css",
+    "main.js": "/adventure-react/static/js/main.e5c15e70.js",
     "static/media/video-1.mp4": "/adventure-react/static/media/video-1.59e75226d30ad48f9ede.mp4",
     "static/media/img-2.jpg": "/adventure-react/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
     "static/media/img-4.jpg": "/adventure-react/static/media/img-4.a31875b76d39f6458a6e.jpg",
@@ -10,11 +10,11 @@
     "static/media/img-9.jpg": "/adventure-react/static/media/img-9.f97f588f3670715d01b2.jpg",
     "static/media/img-8.jpg": "/adventure-react/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
     "index.html": "/adventure-react/index.html",
-    "main.37a8633e.css.map": "/adventure-react/static/css/main.37a8633e.css.map",
-    "main.28af0b3e.js.map": "/adventure-react/static/js/main.28af0b3e.js.map"
+    "main.a8f367eb.css.map": "/adventure-react/static/css/main.a8f367eb.css.map",
+    "main.e5c15e70.js.map": "/adventure-react/static/js/main.e5c15e70.js.map"
   },
   "entrypoints": [
-    "static/css/main.37a8633e.css",
-    "static/js/main.28af0b3e.js"
+    "static/css/main.a8f367eb.css",
+    "static/js/main.e5c15e70.js"
   ]
 }
