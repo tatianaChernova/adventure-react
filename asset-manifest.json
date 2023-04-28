@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/adventure-react/static/css/main.a8f367eb.css",
-    "main.js": "/adventure-react/static/js/main.e5c15e70.js",
+    "main.js": "/adventure-react/static/js/main.1a17a6ec.js",
     "static/media/video-1.mp4": "/adventure-react/static/media/video-1.59e75226d30ad48f9ede.mp4",
     "static/media/img-2.jpg": "/adventure-react/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
     "static/media/img-4.jpg": "/adventure-react/static/media/img-4.a31875b76d39f6458a6e.jpg",
@@ -11,10 +11,10 @@
     "static/media/img-8.jpg": "/adventure-react/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
     "index.html": "/adventure-react/index.html",
     "main.a8f367eb.css.map": "/adventure-react/static/css/main.a8f367eb.css.map",
-    "main.e5c15e70.js.map": "/adventure-react/static/js/main.e5c15e70.js.map"
+    "main.1a17a6ec.js.map": "/adventure-react/static/js/main.1a17a6ec.js.map"
   },
   "entrypoints": [
     "static/css/main.a8f367eb.css",
-    "static/js/main.e5c15e70.js"
+    "static/js/main.1a17a6ec.js"
   ]
 }
