@@ -166,7 +166,20 @@
 }
 
 @media screen and (max-width: 390px) {
+
+    .footer-links {
+        padding-top: 0;
+    }
+
     .footer-links-items {
         margin: 6px;
+    }
+
+    .footer-links-items>h2 {
+        font-size: 20px;
+    }
+
+    .footer-links-items a {
+        font-size: 16px;
     }
 }

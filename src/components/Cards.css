@@ -122,6 +122,10 @@
       font-size: 16px;
       line-height: 20px;
   }
+  .cards__container {
+    width: 110%;
+  }
+
   }
 
   
