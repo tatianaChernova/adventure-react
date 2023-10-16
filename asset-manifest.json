@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/adventure-react/static/css/main.5d245588.css",
-    "main.js": "/adventure-react/static/js/main.2a555805.js",
-    "static/media/video-2.mp4": "/adventure-react/static/media/video-2.39e6c79bffb375ae929a.mp4",
-    "static/media/img-2.jpg": "/adventure-react/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
-    "static/media/img-4.jpg": "/adventure-react/static/media/img-4.a31875b76d39f6458a6e.jpg",
-    "static/media/img-3.jpg": "/adventure-react/static/media/img-3.6d683c0ee6824af7961a.jpg",
-    "static/media/img-1.jpg": "/adventure-react/static/media/img-1.53f4843759ebec256cb9.jpg",
-    "static/media/img-home.jpg": "/adventure-react/static/media/img-home.c034239ee9a63564602b.jpg",
-    "static/media/img-9.jpg": "/adventure-react/static/media/img-9.f97f588f3670715d01b2.jpg",
-    "static/media/img-8.jpg": "/adventure-react/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
+    "main.css": "/adventure-react/static/css/main.56e34732.css",
+    "main.js": "/adventure-react/static/js/main.9932e50c.js",
+    "static/media/video-1.mp4": "/adventure-react/static/media/video-1.59e75226d30ad48f9ede.mp4",
+    "static/media/img-4.jpg": "/adventure-react/static/media/img-4.8de5ddb5d6b6fc609376.jpg",
+    "static/media/img-2.jpg": "/adventure-react/static/media/img-2.9480ad38da6f306741fe.jpg",
+    "static/media/img-3.jpg": "/adventure-react/static/media/img-3.da106cf3e7aa7ef20ac5.jpg",
+    "static/media/img-home.jpg": "/adventure-react/static/media/img-home.6cdd6faadde4fc0441ec.jpg",
+    "static/media/img-1.jpg": "/adventure-react/static/media/img-1.4d293b837c149db320d6.jpg",
+    "static/media/img-9.jpg": "/adventure-react/static/media/img-9.6b41b95fb219e8588476.jpg",
+    "static/media/img-8.jpg": "/adventure-react/static/media/img-8.48bf59b30c4fd41a7d94.jpg",
     "index.html": "/adventure-react/index.html",
-    "main.5d245588.css.map": "/adventure-react/static/css/main.5d245588.css.map",
-    "main.2a555805.js.map": "/adventure-react/static/js/main.2a555805.js.map"
+    "main.56e34732.css.map": "/adventure-react/static/css/main.56e34732.css.map",
+    "main.9932e50c.js.map": "/adventure-react/static/js/main.9932e50c.js.map"
   },
   "entrypoints": [
-    "static/css/main.5d245588.css",
-    "static/js/main.2a555805.js"
+    "static/css/main.56e34732.css",
+    "static/js/main.9932e50c.js"
   ]
 }
